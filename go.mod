@@ -36,7 +36,7 @@ require (
 	github.com/kennygrant/sanitize v1.2.4 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
-	golang.org/x/image v0.11.0 // indirect
+	golang.org/x/image v0.18.0 // indirect
 	golang.org/x/net v0.21.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
